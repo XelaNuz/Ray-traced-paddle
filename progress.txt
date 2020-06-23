@@ -1,0 +1,7 @@
+Paddle and t1 are the same, with a gray floor
+t2 is having issues with having multiple lights
+t3 has the lights fixed
+t4 is where I'm cleaning up the code
+t5 light in the right pos
+t6 checkerboard is done and fog was added
+t7 attempting to clip the inside of the guard
