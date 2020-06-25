@@ -1,10 +1,6 @@
 //modified by: Jorge Zuniga
-//date:
-//
 //3480 Computer Graphics
 //Project
-//Author: Gordon Griesel
-//Date: 2017
 
 #include <stdio.h>
 #include <stdlib.h>
